@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+ul {
+    list-style: none;
+    text-align: right;
+}
+li {
+    display: inline-block;
+    padding: 20px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+header {
+    background-color: #366051;
+    height: 58px;
+    border-bottom: 5px solid #D7B097;
+}
+footer {
+    background-color: #366051;
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    padding: 5px;
+    border-bottom: 10px solid #4F4847;
+}
+.center{
+    text-align: center;
+}
+
+.contact {
+    background-color: #E3CEC1;
+    text-align: center;
+    padding-bottom: 5px;
+    border: 5px darkgoldenrod;
+}
